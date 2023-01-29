@@ -9,16 +9,17 @@ import java.io.InputStreamReader;
 // <해야 할 일>
 // 예외처리
 // 함수쪼개기
-// mvc 패턴 활용해보기..... , controller , service 등 이용...?
+// mvc 패턴 활용해보기..... , controller , service 등 이용...? (mvc 지식 부족)
+
 public class Main {
 
     public static void main(String[] args) throws IOException {
         BufferedReader br= new BufferedReader(new InputStreamReader(System.in));
 
-        //객체생성
+        // 컴퓨터 객체생성
         BaseBallInfo bbc = new BaseBallInfo();
 
-        //객체 안에answer값 생성
+        //객체 안에 answer값 생성
         CreateAnswer.create(bbc);
 
         //answer 리스트 결과 확인
@@ -31,12 +32,14 @@ public class Main {
             bbc.setStrike(0);       //strike 초기화
             bbc.setBall(0);         //ball 초기화
 
-            String myAnswer = br.readLine();
+            String myAnswer = br.readLine();        //값 입력. (띄어쓰기없이)
             CheckAnswer.check(myAnswer, bbc);       //입력한 값이랑 객체 넘기기
 
+            // 0s ,0b 이면 nothing 출력
             if(bbc.getStrike()==0 && bbc.getBall()==0){
                 System.out.println("nothing");
             }
+            // 하나라도 맞은게 있으면 strike,ball 출력
             else{
                 System.out.println("strike " + bbc.getStrike());
                 System.out.println("ball " + bbc.getBall());

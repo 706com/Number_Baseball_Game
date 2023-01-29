@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb8f84dd-762c-4aa4-9d8c-a29a1a01edea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaseBallCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreateAnswer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -96,7 +93,7 @@
       <option name="presentableId" value="Default" />
       <updated>1674901213528</updated>
       <workItem from="1674901215557" duration="1732000" />
-      <workItem from="1674978486857" duration="8303000" />
+      <workItem from="1674978486857" duration="9323000" />
     </task>
     <servers />
   </component>
