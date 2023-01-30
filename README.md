@@ -1,5 +1,14 @@
 # Number_Baseball_Game
-우아한 테크코스 [1주차]
+우아한 테크코스 [1주차]  
+
+<details>
+<summary>해야할 일</summary>
+
+1. Main 함수 더 쪼개기
+2. 예외처리 넣기 (IllegalArgumentException) : 예외기법 지식 부족
+2. MVC 패턴 활용 : mvc 기법 지식 부족
+
+</details>
 
 🚀 기능 요구사항
 기본적으로 1부터 9까지 서로 다른 수로 이루어진 3자리의 수를 맞추는 게임이다.
