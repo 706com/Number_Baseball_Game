@@ -31,8 +31,16 @@ public class Main {
         do{
             bbc.setStrike(0);       //strike 초기화
             bbc.setBall(0);         //ball 초기화
-
             String myAnswer = br.readLine();        //값 입력. (띄어쓰기없이)
+//            try {
+//                myAnswer = Integer.parseInt(br.readLine());
+//            }
+//            catch(NumberFormatException e){
+//                System.out.println("숫자 형식이 아닙니다.");
+//            }
+//            finally {
+//            }
+
             CheckAnswer.check(myAnswer, bbc);       //입력한 값이랑 객체 넘기기
 
             // 0s ,0b 이면 nothing 출력
