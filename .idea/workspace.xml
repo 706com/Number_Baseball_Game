@@ -5,6 +5,7 @@
       <change afterPath="$PROJECT_DIR$/1/AfterFeedback/AfterFeedback.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/1/BeforeFeedback/BeforeFeedback.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/1/BeforeFeedback/src/AnswerInfo/들어가기 앞서.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1/AfterFeedback" beforeDir="false" afterPath="$PROJECT_DIR$/1/AfterFeedback" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1/AfterFeedback/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1/AfterFeedback/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1/BeforeFeedback" beforeDir="false" afterPath="$PROJECT_DIR$/1/BeforeFeedback" afterDir="false" />
@@ -14,6 +15,7 @@
       <change beforePath="$PROJECT_DIR$/1/BeforeFeedback/src/AnswerInfo/ViewAnswer.java" beforeDir="false" afterPath="$PROJECT_DIR$/1/BeforeFeedback/src/AnswerInfo/ViewAnswer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1/BeforeFeedback/src/CheckAnswer.java" beforeDir="false" afterPath="$PROJECT_DIR$/1/BeforeFeedback/src/CheckAnswer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1/BeforeFeedback/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/1/BeforeFeedback/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +23,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/1/AfterFeedback" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -72,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675154799270</updated>
-      <workItem from="1675154800613" duration="602000" />
+      <workItem from="1675154800613" duration="930000" />
     </task>
     <servers />
   </component>
