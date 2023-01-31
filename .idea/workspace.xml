@@ -1,101 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eb8f84dd-762c-4aa4-9d8c-a29a1a01edea" name="Changes" comment="">
+    <list default="true" id="0ece1d76-8621-4440-b912-f9d7cdd042a0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Number_Baseball_Game.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/AfterFeedback/AfterFeedback.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/BeforeFeedback/BeforeFeedback.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/BeforeFeedback/src/AnswerInfo/들어가기 앞서.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/AfterFeedback/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1/AfterFeedback/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/BeforeFeedback/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1/BeforeFeedback/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/BeforeFeedback/src/AnswerInfo/BaseBallInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/1/BeforeFeedback/src/AnswerInfo/BaseBallInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/BeforeFeedback/src/AnswerInfo/CreateAnswer.java" beforeDir="false" afterPath="$PROJECT_DIR$/1/BeforeFeedback/src/AnswerInfo/CreateAnswer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/BeforeFeedback/src/AnswerInfo/ViewAnswer.java" beforeDir="false" afterPath="$PROJECT_DIR$/1/BeforeFeedback/src/AnswerInfo/ViewAnswer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/BeforeFeedback/src/CheckAnswer.java" beforeDir="false" afterPath="$PROJECT_DIR$/1/BeforeFeedback/src/CheckAnswer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/BeforeFeedback/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/1/BeforeFeedback/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Number_Baseball_Game.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnswerInfo/BaseBallInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnswerInfo/CreateAnswer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnswerInfo/ViewAnswer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CheckAnswer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/1/AfterFeedback" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2Kx11rzrUYVGslfOYaaDNjmX9UJ" />
+  <component name="ProjectId" id="2L5J22e44h7iwJZf8TnozEquEBX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/notebook/IdeaProjects/Number_Baseball_Game",
+    "nodejs_package_manager_path": "npm"
   }
-}</component>
-  <component name="RunManager" selected="Application.Main">
+}]]></component>
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Number_Baseball_Game" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Number_Baseball_Game" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Number_Baseball_Game" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Number_Baseball_Game" />
+      <module name="AfterFeedback" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Number_Baseball_Game" />
+      <module name="BeforeFeedback" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="eb8f84dd-762c-4aa4-9d8c-a29a1a01edea" name="Changes" comment="" />
-      <created>1674901213528</created>
+      <changelist id="0ece1d76-8621-4440-b912-f9d7cdd042a0" name="Changes" comment="" />
+      <created>1675154799270</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1674901213528</updated>
-      <workItem from="1674901215557" duration="1732000" />
-      <workItem from="1674978486857" duration="9968000" />
-      <workItem from="1674988986669" duration="8000" />
-      <workItem from="1675079496817" duration="1042000" />
+      <updated>1675154799270</updated>
+      <workItem from="1675154800613" duration="304000" />
     </task>
     <servers />
   </component>
